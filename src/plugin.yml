@@ -1,0 +1,8 @@
+name: TeleportPlugin
+author: alphaR0ut
+version: 1.0
+main: de.alpharout.teleportplugin.main.Main
+commands:
+  tp:
+    name: tp
+    description: Teleportiert Spieler.
